@@ -2,8 +2,11 @@
 SE &amp; SE30 Compact Card
 
 Released under CC4.0 BY-NC-ND
+
 This item uses the RGBtoHDMI created by IanSB using the public release:
+
 https://github.com/IanSB/RGBtoHDMI?tab=readme-ov-file
+
 You will need to provide a SD card and install the RGBtoHDMI software.
 Configer the card as RGB and set your profile to SE30 in the menu.
 
@@ -24,9 +27,12 @@ J13 is for the power on where a switch can be connected to turn the system on/of
 or leave the jumper on it to turn on once the power is connected to the Pico.
 
 The fan needs to be a 12V fan similar to this one:
+
 https://www.amzn.com/B0CWXKGSD3
+
 There is a pot on the board by the ATTINY85 so you can adjust the temp
 sensativity as to how soon the fan will start spinning.
 
 THe PicoATX we have used is:
+
 https://www.amzn.com/B0D2W3Z4VV
